@@ -63,9 +63,9 @@ The objective of this project is to build a Model to predict whether the policyh
 
   Lgbm Classifier:
 
-  Train ROC-AUC = 95
+  Train Recall = 95
 
-  Test ROC-AUC = 92
+  Test Recall = 92
   
  #
  
