@@ -145,9 +145,4 @@ Test Recall= 92
 
 📖Execution Instructions
 
-To run on your local system:
-Step I: Use this command to install required libraries: pip install -r requirements.txt
-
-Step II: After it run the ipynb file using any IDE on your local system.
-
 You can directly run the ipynb file on google colab.
