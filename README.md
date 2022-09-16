@@ -81,6 +81,24 @@ Number of instances: 381109
 
 Number of attributes: 12
 
+📖Approach: 
+
+
+We will divide this project into three steps for reproductive analysis.
+
+As the first step we will be analyzing, cleaning the dataset which was provided and dropping some unnecessary column.
+
+In the second step we are handling outliers as well as finding the distribution type of all numerical features and try to understand the skew-ness of them.
+
+In the third step we will draw some insights after fetching all the details from all features like Age distribution, vehicle damage status and policy premium. After that we will do Feature selection and Engineering. In FE we will be using f_classification and correlation both method for Removing Some unnecessary column as well as we will do some encoding for categorical features also.
+
+In the Fourth step we will split our data into train and test set and due to unbalance nature of our data we will use some balancing techniques on train set and after that we prepare our data for feeding  to our models for training and analyze the results of all models by comparing with each other. We will select best model among these and proceed with them further.
+
+In the last step we will do hyper-parameter tuning for our topmost model and will see how our model behaves with different parameters. After getting best parameter for our top models we will go for feature importance method and draw the weightage of all features for our top model.
+
+Based on above steps we will find the best model which can be good enough for predicting Response of policyholders. By using these model we can increase our marketing conversion drastically and help to move forward towards cross-selling our vehicle insurance to our policyholders. In long term cross-selling can helps customers to feel satisfied, Build loyalty and Increase earning also because if cross-selling increases customer satisfaction, you’ll save money by spending less time and resources on customer acquisition.
+
+
 
 📖Libraries:
 
