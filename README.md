@@ -84,11 +84,11 @@ Number of attributes: 12
 
 📖Libraries:
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Scikit-Learn
+Numpy, 
+Pandas, 
+Matplotlib, 
+Seaborn, 
+Scikit-Learn, 
 Skopt
 
 
@@ -110,26 +110,26 @@ Now, we have information about demographics (gender, age, region code type), veh
 
 Key points:
 
-Customers of age between 30 to 60 are more likely to buy insurance.
+1. Customers of age between 30 to 60 are more likely to buy insurance.
 
-Customers with Vehicle_Damage are likely to buy insurance.
+2. Customers with Vehicle_Damage are likely to buy insurance.
 
-Customers with Driving License have higher chance of buying Insurance.
+3. Customers with Driving License have higher chance of buying Insurance.
 
-The variable such as Age, Previously_insured,Annual_premium are more affecting the target variable.
+4. The variable such as Age, Previously_insured,Annual_premium are more affecting the target variable.
 
-We can see that LGBM model preform better for this dataset.
+5. We can see that LGBM model preform better for this dataset.
 
 
 Improvements:
 
-By using a marketing and advertising approach, we can reduce the gender gap.
+1. By using a marketing and advertising approach, we can reduce the gender gap.
 
-We can clearly see that we have a larger number of consumers without vehicle insurance, therefore we can easily target them directly with our campaign.
+2. We can clearly see that we have a larger number of consumers without vehicle insurance, therefore we can easily target them directly with our campaign.
 
-Since there are less policy holders with vehicles older than two years, we must pay more attention to the other two categories (1-2 years and >1 year). Because most sales agencies that offer vehicle insurance for the first year are actually our target and we can give them the best incentives to reduce competition in the market.
+3. Since there are less policy holders with vehicles older than two years, we must pay more attention to the other two categories (1-2 years and >1 year). Because most sales agencies that offer vehicle insurance for the first year are actually our target and we can give them the best incentives to reduce competition in the market.
 
-As we saw that we have nearly equal policy holders for both vehicle damage status, so we can target those policy holders whose vehicles are damaged in the past.
+4. As we saw that we have nearly equal policy holders for both vehicle damage status, so we can target those policy holders whose vehicles are damaged in the past.
 
 
 
