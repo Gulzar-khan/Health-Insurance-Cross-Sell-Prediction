@@ -1,5 +1,7 @@
 # **Health Insurance Cross Sell Prediction**
 
+- 📫 Find the related notebook directly- <a href="https://github.com/Gulzar-khan/Health-Insurance-Cross-Sell-Prediction/blob/main/Team_Health_Insurance_Cross_Sell_Prediction.ipynb" target="_blank">Here</a> 
+
 ## **📖Introduction:**
 
 As we all knew Cross-selling involves selling customers related items when they are making a purchase. It's important not only because it boosts revenue, but also because it increases customer satisfaction, builds engagement, and helps to create solid and lasting customer relationships.
