@@ -112,12 +112,9 @@ Skopt
 
 ## **📖 Conclusion:**
 
-Our client is an insurance firm that has supplied Health Insurance to its customers. They now need assistance in developing a model to predict whether the policyholders (customers) from the previous year will be interested in the company's Vehicle Insurance.
+Starting with loading the data so far we have done EDA , null values treatment, dropping unnecessory columns, outliers handling, visualization, knowing the distribution, feature engineering,Applying some sampling technique(US, OS and SMOTE), model making, finalizing our best model and then we do some hyperparameter tuning also.
 
-Building a model to predict if a client is interested in Vehicle Insurance is extremely beneficial to the company because they can then plan communication strategy to reach out to those customers and optimise its business model and revenue.
-
-Now, we have information about demographics (gender, age, region code type), vehicles (vehicle age, damage), policies (premium, sourcing channel), and so on to predict whether the customer would be interested in Vehicle insurance.
-
+The lgbm was the best model when compared with rest all models for this data set. For all the models This Classifier worked the best because it prevents the data from overfitting and plus it predicted very well based on all the features which is important.
 
 ### **Key points:**
 
